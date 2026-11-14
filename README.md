@@ -26,23 +26,8 @@ I enjoy hackathons, innovation challenges, team collaboration and learning new t
 
 ## Connect
 
-- **LinkedIn:** [Add your LinkedIn profile URL](YOUR_LINKEDIN_URL)
-- **GitHub:** [Add your GitHub profile URL](YOUR_GITHUB_URL)
-- **Email:** YOUR_EMAIL@example.com
+- **LinkedIn:** https://www.linkedin.com/in/bhumika-shivashankar/
+- **GitHub:** https://github.com/Bhumika-MS
+- **Email:** bhumikams2007@gmail.com
 
-## Run locally
 
-1. Download or clone this repository.
-2. Open `index.html` in a browser, or use the VS Code Live Server extension.
-
-## Publish with GitHub Pages
-
-1. Create a public repository named `yourusername.github.io` (replace `yourusername` with your GitHub username).
-2. Upload `index.html`, `style.css`, `script.js` and `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
-5. Your site will be available at `https://yourusername.github.io` after GitHub Pages finishes publishing.
-
----
-
-*Project descriptions are concise summaries of each project's focus. Add individual repository or demo links when they are ready to share publicly.*

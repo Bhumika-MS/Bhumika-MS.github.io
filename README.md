@@ -21,9 +21,16 @@ I'm passionate about exploring emerging technologies and building practical solu
 - **ReLoopAI:** AI-assisted e-waste recovery and circular resource management concept.
 - **GreenPulse:** Carbon footprint tracking prototype.
 - **Hotel Management System:** Database-backed hotel management application.
+- **AquaTraceAI:** An AI-driven project focused on tracing underground water.
+- **ShiftMind AI"** An AI-powered platform featuring incident reporting, incident management and AI-assisted analysis.
+-**Carbon Footprint Tracking & Reduction:** A project focused on tracking carbon emissions from everyday activities and encouraging sustainable choices through emission insights and recommendations.
+**CheckSheild AI:** An AI-based project focused on [add your project's main purpose].
 
 ## 🎯 Current Goals
 
+- Explore Artificial Intelligence and emerging technologies.
+- Participate in hackathons and innovation challenges.
+- Build practical solutions to real-world problems.
 - Strengthen my software development skills.
 - Explore AI and open-source technologies.
 - Build impactful projects.

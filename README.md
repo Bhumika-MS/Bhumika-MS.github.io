@@ -1,46 +1,48 @@
-# Hi, I'm Bhumika M S 👋
+# Bhumika M S — Portfolio
 
-🎓 Third-year Computer Science and Engineering student at Government SKSJTI, Bengaluru.
+Third-year Computer Science and Engineering student at Government SKSJTI, Bengaluru, interested in AI, software development, innovation and practical problem-solving.
 
-💻 Interested in Artificial Intelligence, Software Development, Innovation and Problem-Solving.
+This repository contains my personal portfolio website, built with HTML, CSS and JavaScript.
 
-## 👩‍💻 About Me
+## Featured projects
 
-I'm passionate about exploring emerging technologies and building practical solutions to real-world problems. I enjoy participating in hackathons, collaborating with teams, and continuously learning new technologies.
+- **AquaTraceAI** — An AI-focused project intended to trace potential underground water sources and support groundwater exploration.
+- **ShiftMind AI** — An AI-assisted incident-management project focused on incident reporting, incident details and supporting analysis.
+- **Carbon Footprint Tracking & Reduction** — A project focused on tracking emissions from everyday activities and encouraging lower-carbon choices through insights and reduction suggestions.
+- **CheckShield AI** — An AI-based project designed to examine messages and flag content that may be a scam or contain suspicious patterns.
+- **ReLoopAI** — An AI-assisted concept for e-waste recovery and circular resource management, covering repair, reuse, refurbishment, parts recovery and responsible recycling.
+- **Hotel Management System** — A database-backed application project exploring customer records, room information and core hotel-management workflows.
 
-## 🛠️ Technical Skills
+## Skills
 
 - **Programming:** Python, Java, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Backend:** Flask
-- **Database:** MySQL, SQLite, DBMS
-- **Interests:** Artificial Intelligence, Software Development
+- **Web development:** HTML, CSS, JavaScript basics, Flask
+- **Databases:** DBMS, SQL, MySQL, SQLite
+- **Areas of interest:** Artificial Intelligence, software development, open-source tools and prototyping
 
-## 🚀 Featured Projects
+## About me
 
-- **ReLoopAI:** AI-assisted e-waste recovery and circular resource management concept.
-- **GreenPulse:** Carbon footprint tracking prototype.
-- **Hotel Management System:** Database-backed hotel management application.
-- **AquaTraceAI:** An AI-driven project focused on tracing underground water.
-- **ShiftMind AI"** An AI-powered platform featuring incident reporting, incident management and AI-assisted analysis.
--**Carbon Footprint Tracking & Reduction:** A project focused on tracking carbon emissions from everyday activities and encouraging sustainable choices through emission insights and recommendations.
-**CheckSheild AI:** An AI-based project focused on [add your project's main purpose].
+I enjoy hackathons, innovation challenges, team collaboration and learning new technologies by building practical projects. I am open to internship opportunities and collaborations where I can continue developing my skills.
 
-## 🎯 Current Goals
+## Connect
 
-- Explore Artificial Intelligence and emerging technologies.
-- Participate in hackathons and innovation challenges.
-- Build practical solutions to real-world problems.
-- Strengthen my software development skills.
-- Explore AI and open-source technologies.
-- Build impactful projects.
-- Explore internship and hackathon opportunities.
+- **LinkedIn:** [Add your LinkedIn profile URL](YOUR_LINKEDIN_URL)
+- **GitHub:** [Add your GitHub profile URL](YOUR_GITHUB_URL)
+- **Email:** YOUR_EMAIL@example.com
 
-## 🤝 Connect With Me
+## Run locally
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/bhumika-shivashankar/)
-- **GitHub:** [My GitHub Profile](https://github.com/Bhumika-MS)
+1. Download or clone this repository.
+2. Open `index.html` in a browser, or use the VS Code Live Server extension.
+
+## Publish with GitHub Pages
+
+1. Create a public repository named `yourusername.github.io` (replace `yourusername` with your GitHub username).
+2. Upload `index.html`, `style.css`, `script.js` and `README.md` to the repository root.
+3. Open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
+5. Your site will be available at `https://yourusername.github.io` after GitHub Pages finishes publishing.
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+*Project descriptions are concise summaries of each project's focus. Add individual repository or demo links when they are ready to share publicly.*
